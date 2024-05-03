@@ -18,7 +18,7 @@ You can add, delete and change quanities in the cart:
 ![Challenge-22-Cart](https://github.com/DakotaK92/Challenge-22-State-Redux-Store/assets/46942706/b013572c-db2e-4784-bbd7-41cacc46f230)
 
 And when your ready to checkout! you can with the Stripe API:
-`THIS IS A DEMO, ANY PAYMENT WON'T GO THROUGH`
++ `THIS IS A DEMO, ANY PAYMENT WON'T GO THROUGH`
 ![Challenge-22-Stripe](https://github.com/DakotaK92/Challenge-22-State-Redux-Store/assets/46942706/278bd2aa-8f1c-4567-b649-79969cfb2d3d)
 
 ## Deployed on Github Pages:
