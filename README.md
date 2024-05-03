@@ -21,6 +21,6 @@ And when your ready to checkout! you can with the Stripe API:
 `THIS IS A DEMO, ANY PAYMENT WON'T GO THROUGH`
 ![Challenge-22-Stripe](https://github.com/DakotaK92/Challenge-22-State-Redux-Store/assets/46942706/278bd2aa-8f1c-4567-b649-79969cfb2d3d)
 
-Deployed on Github Pages:
+## Deployed on Github Pages:
 https://dakotak92.github.io/Challenge-22-State-Redux-Store/
-Deployed on Render:
+## Deployed on Render:
